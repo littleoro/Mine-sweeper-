@@ -1,0 +1,4 @@
+﻿  game.c
+C:\Users\Wang\Desktop\vs C语言练习\扫雷\扫雷\game.c(82,10): warning C4476: "printf": 格式说明符中的类型字段字符“\xe6”未知
+C:\Users\Wang\Desktop\vs C语言练习\扫雷\扫雷\game.c(57,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  扫雷.vcxproj -> C:\Users\Wang\Desktop\vs C语言练习\扫雷\Debug\扫雷.exe
